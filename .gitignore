@@ -1,3 +1,4 @@
 # Ignorar archivos de marcador de carpetas vacías
+*.gitkeep
 **/.gitkeep
 **/.vacío
